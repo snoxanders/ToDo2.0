@@ -14,7 +14,7 @@
 }
 
 .all-container {
-    border: 10px solid red;
+    
     margin-top: 50px;
     display: flex;
     background: #e8eaf1;
@@ -27,7 +27,7 @@
 }
 
 .nav-all-content {
-    border: 1px solid red;
+    
     border-top-right-radius: 30px;
     border-top-left-radius: 30px;
     border: 1px solid gray;
@@ -44,7 +44,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid red;
+    
 }
 
 .page-title {
@@ -52,7 +52,7 @@
 }
 
 .main-content {
-    border: 1px solid red;
+    
     display: flex;
     justify-content: center;
     align-items: center;
